@@ -11,7 +11,9 @@ public class Perro {
 		this.edad = edad;
 	}
 	
-	
+	public void makeSound() {
+		System.out.println("Guau guau");
+	}
 	
 
 }

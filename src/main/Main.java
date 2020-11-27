@@ -50,6 +50,10 @@ public class Main {
 		nombreArrayList.add("José");
 		nombreArrayList.add("Nata");
 		
+		
+		Perro perro = new Perro("Firu", 3);
+		perro.makeSound();
+		
 		/*
 		 * System.out.println(nombreArrayList ); System.out.println("----------" );
 		 * nombreArrayList.remove("Cristian"); System.out.println(nombreArrayList);
